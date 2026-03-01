@@ -108,3 +108,19 @@ BCA – Yenepoya (Deemed to be University)
 This project is developed for academic and educational purposes.
 
 The application interface can be viewed by running the Streamlit app locally using the steps below.
+
+---
+
+## ▶️ How to Run the Project
+
+### 1. Clone the Repository
+git clone https://github.com/aswinvinodd/emotion-detection-system.git
+cd emotion-detection-system
+
+### 2. Install Requirements
+pip install -r requirements.txt
+
+### 3. Run the Application
+streamlit run src/app.py
+
+The application will open automatically in your browser.
