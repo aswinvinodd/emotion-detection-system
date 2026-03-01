@@ -106,3 +106,5 @@ BCA – Yenepoya (Deemed to be University)
 ## 📄 License
 
 This project is developed for academic and educational purposes.
+
+The application interface can be viewed by running the Streamlit app locally using the steps below.
